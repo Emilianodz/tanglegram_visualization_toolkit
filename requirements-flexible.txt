@@ -1,0 +1,7 @@
+# Alternative to requirements.txt for Python older than 3.12 (minimum versions, UNTESTED:
+# the tested versions are those in requirements.txt).
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+biopython>=1.81
+openpyxl>=3.1
